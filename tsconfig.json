@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES5",
     "jsx": "react",
+    "downlevelIteration": true,
     "module": "commonjs",
     "noEmitOnError": false,
     "strict": true,
